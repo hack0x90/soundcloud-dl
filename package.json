@@ -12,7 +12,7 @@
   "scripts": {
     "test": "mocha --exit --timeout 10000"
   },
-  "keywords": ["soundcloud", "soundcloud-dl", "instalutils"],
+  "keywords": ["soundcloud", "soundcloud-dl", "instautils"],
   "author": "Jahanzeb <jahan@hack0x90.com> (https://instautils.com/en)",
   "license": "MIT",
   "devDependencies": {
