@@ -10,7 +10,7 @@ For demo visit https://instautils.com
 ## Module USAGE
 You must have a env variable `SC_CLIENT_ID`. Also see the examples folder in repo.
 ```js
-const getSoundCloudTrackLink = require('soundcloud-dl');
+const getSoundCloudTrackLink = require('@hack0x90/soundcloud-dl');
 
 async function getLink () {
   const link = await getSoundCloudTrackLink({

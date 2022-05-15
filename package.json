@@ -1,17 +1,18 @@
 {
   "name": "@hack0x90/soundcloud-dl",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Download songs from https://soundcloud.com",
   "repository": {
     "type": "git",
     "url": "git@github.com:hack0x90/soundcloud-dl.git"
   },
+  "homepage": "https://instautils.com/en",
   "main": "index.js",
   "scripts": {
     "test": "mocha --exit --timeout 10000"
   },
   "keywords": ["soundcloud", "soundcloud-dl", "instalutils"],
-  "author": "Jahanzeb <jahan@hack0x90.com> (https://instautils.com)",
+  "author": "Jahanzeb <jahan@hack0x90.com> (https://instautils.com/en)",
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.3.6",
