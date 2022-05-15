@@ -1,6 +1,6 @@
 {
   "name": "@hack0x90/soundcloud-dl",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Download songs from https://soundcloud.com",
   "repository": {
     "type": "git",
