@@ -1,6 +1,6 @@
 {
   "name": "@hack0x90/soundcloud-dl",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Download songs from https://soundcloud.com",
   "repository": {
     "type": "git",
@@ -8,6 +8,7 @@
   },
   "homepage": "https://instautils.com/en",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "mocha --exit --timeout 10000"
   },
